@@ -1,8 +1,11 @@
 ## Hi there 👋 It's me Guhan
 
 Software Developer
+
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
-<br>
+
+
 - 🔭 Here's my [portfolio](https://srguhan11.github.io/Portfolio/)     
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
